@@ -1,6 +1,11 @@
 # Kannada is used as a sample CSV. Stick to it. It should work otherwise but consistency is key.
 # Parse CSV files and convert them to JSON.
-# Usage: ./parser.rb /path/to/input.csv /path/to/output.json
+
+
+# Usage: ruby ./parser.rb /path/to/input.csv /path/to/chakrafile.txt /path/to/output.json
+# Example: ruby ./parser.rb csv/kannada/kannada.csv csv/kannada/kannada.txt json/kannada.json
+
+
 # Don't forget to remove the additional backlashes present in the JSON generated.
 # TODO : It's a bug
 
