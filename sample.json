@@ -1,0 +1,21 @@
+{
+    "id": 32,
+    "name": "Hindi",
+    "csv": [
+        {
+            "keycode": "1",
+            "unicode": "\u0D15",
+            "chakra": "1"
+        },
+        {
+            "keycode": "1",
+            "unicode": "\u0D15",
+            "chakra": "1"
+        },
+        {
+            "keycode": "1",
+            "unicode": "\u0D15",
+            "chakra": "1"
+        }
+    ]
+}
